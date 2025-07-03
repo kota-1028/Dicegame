@@ -1,10 +1,6 @@
-// DiceGame.java
 import java.util.Random;
-<<<<<<< HEAD
-=======
 import java.util.Scanner;
 
->>>>>>> experimental
 public class DiceGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
